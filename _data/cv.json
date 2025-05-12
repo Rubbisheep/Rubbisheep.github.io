@@ -1,152 +1,97 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "邓明熠",
+    "email": "dengmingyi1219@163.com",
+    "phone": "+8618280533019",
+    "website": "https://Rubbisheep.github.io",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Hong Kong",
+      "country": "China",
+      "countryCode": "CN",
       "region": ""
     },
-    "profiles": [
-      {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
-      },
-      {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
-      }
-    ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "南京序明私募基金管理有限公司",
+      "position": "机器学习研究实习生",
+      "website": null,
+      "startDate": "2025.02",
+      "endDate": "2025.05",
+      "summary": "基于树模型的量化策略模型开发与优化:结合XGBoost树模型与神经网络构建复合量化交易模型,显著提升了交易策略的配对胜率;主导设计并实现了具备显著超额收益的两阶段量化模型架构。\nAgent驱动的量化模型构建与探索: 基于OpenManus-AutoQuant与Deepfund等相关内容,构建了一个初步的Agent-Quant模型,使用三层不同角色类型的agent作为系统框架,旨在实现策略的自主学习与优化。\nAgent-Quant前沿技术洞察与架构策略制定:持续追踪并评估Agent-Quant领域的最新研究成果与技术趋势,将最新成果应用于指导Agent-Quant模型架构设计与迭代方向。",
+      "highlights": []
+    },
+    {
+      "company": "四川省天域航通科技有限公司",
+      "position": "算法研究实习生",
+      "website": null,
+      "startDate": "2023.06",
+      "endDate": "2023.08",
+      "summary": "无人机飞行系统研发与维护:主导参与了双机同构无人机编队自主飞行核心功能的设计与实现,成功满足复杂飞行需求;负责撰写了相关用户手册与技术文档,确保系统的高效运行与迭代。\n编队飞行控制算法研发:结合A*算法进行高效最短路径规划,并应用B样条曲线对路径进行精细化优化,确保无人机编队在复杂环境下实现高精度、高平稳性的协同飞行",
+      "highlights": []
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "中国人民大学",
+      "area": "统计学院本科",
+      "studyType": "数据科学+应用经济双学位实验班",
+      "startDate": "2020.09",
+      "endDate": "2024.07",
       "gpa": null,
-      "courses": []
+      "courses": [
+        "数据结构与算法",
+        "数据库系统概论",
+        "大数据并行计算",
+        "机器学习",
+        "深度学习"
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "香港大学",
+      "area": "统计学项目",
+      "studyType": "计算与数据科学学院硕士",
+      "startDate": "2025.09",
+      "endDate": "2026.09",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
+  "skills": [
+    {
+      "name": "计算机技能",
+      "level": "",
+      "keywords": [
+        "SQL数据库管理",
+        "Hadoop",
+        "Dask",
+        "Spark",
+        "Python",
+        "C++",
+        "Linux操作系统",
+        "git",
+        "STATA",
+        "SPSS",
+        "LaTeX",
+        "MarkDown"
+      ]
+    },
+    {
+      "name": "语言水平",
+      "level": "IELTS 7.0",
+      "keywords": [
+        "英语"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "英语",
+      "fluency": "IELTS 7.0"
+    }
+  ],
   "interests": [],
-  "references": [],
-  "publications": [
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "references": []
 }

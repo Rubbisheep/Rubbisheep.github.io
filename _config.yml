@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Mingyi Deng's Academic Page"
 title_separator          : "-"
 name                     : &name "Mingyi Deng"
-description              : &description "A Msc student in Statistics at The University of Hong Kong. I am interested in llm agent and their applications in different fields."
+description              : &description "A Msc student in Statistics at The University of Hong Kong. I am interested in LLM Based Agents and their applications in different fields."
 url                      : https://Rubbisheep.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Rubbisheep/Rubbisheep.github.io"
@@ -23,7 +23,7 @@ repository               : "Rubbisheep/Rubbisheep.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Mingyi Deng"
   pronouns         : # example: "she/her"  
   bio              : "HKU MStat 26’| RUC Bachelor of DS&AE 24’"
   location         : "Hong Kong"
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "www.linkedin.com/in/mingyi-deng-6ab092342"
+  linkedin         : "www.linkedin.com/in/mingyi-deng"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -293,7 +293,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-# paginate: 5 # amount of posts to show
+paginate: null # 禁用分页
 # paginate_path: /page:num/
 timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
