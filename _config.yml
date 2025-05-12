@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Mingyi Deng's Academic Page"
 title_separator          : "-"
 name                     : &name "Mingyi Deng"
-description              : &description "personal description"
+description              : &description "A Msc student in Statistics at The University of Hong Kong. I am interested in llm agent and their applications in different fields."
 url                      : https://Rubbisheep.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Rubbisheep/Rubbisheep.github.io"
@@ -25,20 +25,20 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "HKU MStat 26’| RUC Bachelor of DS&AE 24’"
+  location         : "Hong Kong"
+  employer         : "The University of Hong Kong"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "dengmingyi1219@163.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -46,12 +46,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "Rubbisheep"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "www.linkedin.com/in/mingyi-deng-6ab092342"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
