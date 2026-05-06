@@ -11,7 +11,7 @@ redirect_from:
 
 Hi, I'm **Mingyi Deng (邓明熠)**, an MStat student at the University of Hong Kong. I got my B.S. in Statistics (Data Science + Applied Economics) from Renmin University of China.
 
-I work on **LLM-based agents** — especially *interactive* and *user-centric* ones: how agents should recognize ambiguity, ask good clarifying questions, and learn from multi-turn user feedback. I'm currently a research intern at **DeepWisdom (深度赋智)**.
+I work on **LLM-based agents** — especially *interactive* and *user-centric* ones: how agents should recognize ambiguity, ask good clarifying questions, and learn from multi-turn user feedback. I'm currently an LLM research intern at **Meituan Beam**.
 
 Reach me at **dengmingyi1219@163.com**.
 
@@ -37,7 +37,8 @@ Reach me at **dengmingyi1219@163.com**.
 
 ## Internships
 
-- **DeepWisdom (深度赋智)** &nbsp;·&nbsp; Research Intern &nbsp;·&nbsp; Jul 2025 – Jan 2026
+- **Meituan Beam** &nbsp;·&nbsp; LLM Research Algorithm Intern &nbsp;·&nbsp; Apr 2026 – Present
+- **DeepWisdom (深度赋智)** &nbsp;·&nbsp; Research Intern &nbsp;·&nbsp; Jul 2025 – Feb 2026
   LLM agent research: InteractComp, InfoPO, ReCode.
 - **Nanjing Xuming Private Fund** &nbsp;·&nbsp; Quant Research Intern &nbsp;·&nbsp; Feb 2025 – May 2025
   Tree-model / NN composite quant models; agent-driven strategy exploration.
