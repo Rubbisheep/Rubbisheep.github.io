@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Mingyi Deng's Academic Page"
 title_separator          : "-"
 name                     : &name "Mingyi Deng"
-description              : &description "A Msc student in Statistics at The University of Hong Kong. I am interested in LLM Based Agents and their applications in different fields."
+description              : &description "MStat student at The University of Hong Kong. I work on LLM-based agents — interactive, user-centric, and multi-turn."
 url                      : https://Rubbisheep.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Rubbisheep/Rubbisheep.github.io"
@@ -34,7 +34,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=3rvJzmQAAAAJ"
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
